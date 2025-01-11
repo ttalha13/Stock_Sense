@@ -1,3 +1,5 @@
+STOCK_SENSE: AN ALGORITHMIC TRADING SYSTEM
+
 StockSense is an advanced algorithmic trading system implemented in Python, designed to provide comprehensive market analysis and automated 
 trading capabilities. The system leverages real-time market data integration through yfinance to analyze multiple assets including major stocks 
 like S&P500, AAPL, TSLA, and MSFT.Combining traditional technical indicators such as Simple Moving Averages (50-day and 200-day) with complex
